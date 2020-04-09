@@ -1,0 +1,12 @@
+/*
+分支定界法：广度优先搜索思想
+STL函数：
+	priority_queue：优先队列，用于实现E-结点的排序及提取
+	initializer_list：初始化列表，大规模输入参数
+本程序自造代码，未使用priority_queue
+*/
+#include<iostream>
+#include"maxHeap.h"
+#include"heapNode.h"
+#include<time.h>
+#include<algorithm>
